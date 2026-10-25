@@ -72,5 +72,3 @@ Final Thoughts
 The goal of automation is not simply to increase the number of test cases. It is to detect defects early, reduce repetitive work, improve feedback, and help deliver reliable software.
 
 Quality is everyone's responsibility, but QA engineers help make quality measurable and repeatable.
-
-#SoftwareTesting #SDET #Playwright #AutomationTesting #APITesting #PerformanceTesting #QualityEngineering #CICD
